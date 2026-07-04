@@ -11,6 +11,6 @@ I'm currently focused on building portfolio-quality software while developing pr
 - SQL (coming next)
 - REST APIs (coming next)
 
-## Featured Project
+## ⭐ Featured Project
 
 - Mini Gym App — A portfolio Python application demonstrating object-oriented design, JSON persistence, logging, custom exceptions, automated testing with pytest, Ruff, and a professional Git workflow.
