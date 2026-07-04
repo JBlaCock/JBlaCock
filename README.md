@@ -13,4 +13,4 @@ I'm currently focused on building portfolio-quality software while developing pr
 
 ## ⭐ Featured Project
 
-- Mini Gym App — A portfolio Python application demonstrating object-oriented design, JSON persistence, logging, custom exceptions, automated testing with pytest, Ruff, and a professional Git workflow.
+- [**Mini Gym App**](https://github.com/JBlaCock/mini-gym-app) — A portfolio Python application demonstrating object-oriented design, JSON persistence, logging, custom exceptions, automated testing with pytest, Ruff, and a professional Git workflow.
