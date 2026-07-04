@@ -1,22 +1,24 @@
 # Hi, I'm JB 👋
 
-Computer Science student with a focus on Python backend development.
+Computer Science student focused on Python backend development.
 
 I'm building portfolio-quality software while developing the skills expected of a professional software engineer. My current focus is writing clean, tested, and maintainable Python applications using industry-standard development practices.
 
 ## 🚀 Current Focus
 
 - Python
+- Backend Development
 - Software Engineering
-- SQL (next)
+- SQL (currently learning)
 - REST APIs (next)
-- FastAPI (planned)
 
 ## ⭐ Featured Project
 
 ### [Mini Gym App](https://github.com/JBlaCock/mini-gym-app)
 
 A portfolio-quality Python application built using professional software engineering practices.
+
+Tech stack: Python • pytest • Ruff • JSON • Git
 
 **Highlights**
 
